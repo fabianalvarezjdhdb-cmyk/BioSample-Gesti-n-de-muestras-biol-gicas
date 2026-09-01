@@ -1,1 +1,1 @@
-# BioSample-Gesti-n-de-muestras-biol-gicas
+# BioSample-Gestion-de-muestras-biologicas
